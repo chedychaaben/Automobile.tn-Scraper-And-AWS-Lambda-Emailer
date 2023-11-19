@@ -1,0 +1,1 @@
+If you want to use this script, please make sure to update the smtp credentials. (line 8 to 11)
